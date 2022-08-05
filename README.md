@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cndystf/cndystf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- current gif lol -->
+<!-- ![](klee-genshin.gif) -->
+<p align ="center">  <img src="klee-genshin.gif" alt="animated" /> </p>
+
+### Hello, I'm Cindy 👋
+:bookmark: An Informatic Engineering student at a state university in Indonesia. <br/>
+:computer: I'm currently want to excel in Front-End Development*. I had learned other CS fields such as Machine Learning, Android/Flutter, and Back-End Development. <br />
+:envelope: Reach me at : https://s.id/cndystf
+
+<!-- *but still... i want to find the right field for me so i'll do that thing for rest of my life haha.) -->
