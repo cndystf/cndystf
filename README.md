@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Cindy 👋
 :bookmark: An Informatic Engineering student at a state university in Indonesia. <br/>
-:computer: I'm currently want to excel in Front-End Development*. I had learned other CS fields such as Machine Learning, Android/Flutter, and Back-End Development. <br />
+:computer: I'm currently want to excel in Frontend Development*. I had learned other CS fields such as Backend Development, Machine Learning, and Android/Flutter <br />
 :envelope: Reach me at : https://s.id/cndystf
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=cndystf&theme=github_dark&show_icons=true&count_private=true) -->
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cndystf&langs_count=7&layout=compact)
 
-<!-- *but still... i want to find the right field for me so i'll do that thing for rest of my life haha.) -->
+<!-- *but still... i want to find the right field for me and i'll do that thing for rest of my life haha.) -->
