@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <p align ="center">  <img src="klee-genshin.gif" alt="animated" /> </p>
 
 ### Hello, I'm Cindy 👋
-:bookmark: An Informatic Engineering student at a state university in Indonesia. <br/>
-:computer: I'm currently want to excel in Frontend Development*. I had learned other CS fields such as Backend Development, Machine Learning, and Android/Flutter. <br />
+:bookmark: Currently a Software Quality Assurance <br/>
+<!-- :computer: Start over <br /> -->
 :envelope: Reach me at : https://s.id/cndystf
 
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=cndystf&theme=github_dark&show_icons=true&count_private=true) -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=cndystf&show_icons=true&theme=transparent)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=cndystf&show_icons=true&theme=transparent)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cndystf&langs_count=8&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cndystf&langs_count=8&layout=compact) -->
 
 <!-- *but still... i want to find the right field for me and i'll do that thing for rest of my life haha.) -->
