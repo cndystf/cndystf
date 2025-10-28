@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align ="center">  <img src="klee-genshin.gif" alt="animated" /> </p>
 
 ### Hello, I'm Cindy 👋
-:bookmark: Currently a Software Quality Assurance <br/>
+:bookmark: Currently a Functional Analyst <br/>
 <!-- :computer: Start over <br /> -->
 :envelope: Reach me at : https://s.id/cndystf
 
